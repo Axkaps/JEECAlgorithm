@@ -5,15 +5,15 @@ import numpy as np
 
 def runModel():
     # Create a MiniZinc model
-    model = Model("./projGetFirstUpper.mzn")
+    model = Model("./JEEC.mzn")
     solver = Solver.lookup("gecode") # GECODE WORKS BEST WITH THIS IMPLEMENTATION
     instance = Instance(solver, model)
-    instance.add_file("./data.dzn")
+    instance.add_file("./JEECdata.dzn")
 
     # Solve the model
     result = instance.solve()
-    optimalResult = result
-    upperBound = optimalResult["makespan"] # -> FIRST UPPER BOUND
+    
+    return result
 
 
 
@@ -40,10 +40,10 @@ def Read_file_json():
                     for shift in shifts[weekday]:
                         if shift in shifts_list:
                             shift_index = shifts_list.index(shift)
-                            global_index = current_day_index * len(shifts_list) + shift_index
+                            global_index = current_day_index * len(shifts_list) + shift_index + 1
                             person_shifts.append(global_index)
 
-            tag = roles.index(role_name) if role_name in roles else -1
+            tag = (roles.index(role_name) if role_name in roles else -1) + 1
             tags.append(tag)
             # print(name, ": " ,person_shifts)
             shiftsWeek.append(set(person_shifts))
@@ -53,8 +53,6 @@ def Read_file_json():
     
     file.close()
     shiftsWeek = np.array(shiftsWeek)
-    print(shiftsWeek[2])
-    print((shiftsWeek.shape))
 
     return shiftsWeek, tags, nShifts
 
@@ -62,10 +60,10 @@ def write_output_file(output_file, nPeople, nShifts, maxPerShift, nRoles, rolePe
 
 
     with open(output_file, 'w') as file:
-        file.write(f'num_people : {nPeople}\n')
-        file.write(f'num_shifts : {nShifts}\n')
-        file.write(f'max_people_per_shift : {maxPerShift}\n')
-        file.write(f'num_roles : {nRoles}\n')
+        file.write(f'num_people = {nPeople};\n')
+        file.write(f'num_shifts = {nShifts};\n')
+        file.write(f'max_people_per_shift = {maxPerShift};\n')
+        file.write(f'num_roles = {nRoles};\n')
 
 
         file.write("availability = [\n" + "\n".join(
@@ -77,11 +75,27 @@ def write_output_file(output_file, nPeople, nShifts, maxPerShift, nRoles, rolePe
         file.write(f"roles = [{', '.join(map(str, rolePeople))}];\n")
 
 
-
 def main():
 
     availability, roles, nShifts = Read_file_json()
-    write_output_file("JEEC.dzn", len(roles), nShifts, 20, 7, roles, availability)
+    write_output_file("JEECdata.dzn", len(roles), nShifts, 20, 7, roles, availability)
+    result = runModel()
+
+    assigned = np.array(result["assigned"])
+    
+    people = []
+    shifts = set()
+    for i in range(assigned.shape[0]):
+        for j in range(assigned.shape[1]):
+            if assigned[i][j] == 1:
+                shifts.add(j + 1)
+        shifts = sorted(shifts)
+        people.append(shifts)
+        shifts = set()
+
+
+    for i in range(len(people)):
+        print(f"Person {i}: {people[i]} - #Shifts = {len(people[i])}")
 
 
 
