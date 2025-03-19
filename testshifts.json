@@ -1,0 +1,2999 @@
+[
+  {
+    "member": "Person 1",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "17:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "11:00"
+      ],
+      "Tuesday": [
+        "9:00",
+        "16:00"
+      ],
+      "Wednesday": [
+        "13:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "8:00"
+      ],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "15:00",
+        "16:00",
+        "17:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 2",
+    "tag": "Speakers",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "10:00",
+        "18:00"
+      ],
+      "Monday": [
+        "14:00"
+      ],
+      "Tuesday": [
+        "12:00",
+        "14:00",
+        "18:00"
+      ],
+      "Wednesday": [
+        "16:00"
+      ],
+      "Thursday": [
+        "14:00"
+      ],
+      "Friday": [
+        "10:00",
+        "14:00"
+      ],
+      "Saturday_2": [
+        "9:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 3",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [
+        "12:00"
+      ],
+      "Sunday_1": [
+        "14:00",
+        "17:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "14:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "10:00",
+        "15:00"
+      ],
+      "Friday": [
+        "10:00",
+        "14:00"
+      ],
+      "Saturday_2": [
+        "12:00"
+      ],
+      "Sunday_2": [
+        "17:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 4",
+    "tag": "Coordenator",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "8:00"
+      ],
+      "Monday": [
+        "9:00",
+        "10:00"
+      ],
+      "Tuesday": [
+        "15:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "13:00",
+        "16:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "12:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 5",
+    "tag": "Coordenator",
+    "shifts": {
+      "Saturday_1": [
+        "10:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "14:00"
+      ],
+      "Tuesday": [
+        "10:00"
+      ],
+      "Wednesday": [
+        "10:00"
+      ],
+      "Thursday": [
+        "8:00",
+        "11:00",
+        "12:00",
+        "16:00",
+        "17:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "15:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 6",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "14:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [],
+      "Tuesday": [
+        "10:00",
+        "16:00"
+      ],
+      "Wednesday": [
+        "12:00"
+      ],
+      "Thursday": [
+        "9:00",
+        "16:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "9:00",
+        "13:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 7",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "11:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "18:00"
+      ],
+      "Monday": [
+        "8:00",
+        "13:00",
+        "15:00"
+      ],
+      "Tuesday": [
+        "15:00"
+      ],
+      "Wednesday": [
+        "18:00"
+      ],
+      "Thursday": [
+        "11:00"
+      ],
+      "Friday": [
+        "8:00",
+        "12:00"
+      ],
+      "Saturday_2": [
+        "12:00",
+        "13:00"
+      ],
+      "Sunday_2": [
+        "12:00",
+        "13:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 8",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [
+        "15:00"
+      ],
+      "Sunday_1": [
+        "8:00"
+      ],
+      "Monday": [
+        "18:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "18:00"
+      ],
+      "Thursday": [
+        "14:00"
+      ],
+      "Friday": [
+        "12:00"
+      ],
+      "Saturday_2": [
+        "14:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 9",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "12:00"
+      ],
+      "Monday": [
+        "12:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [
+        "11:00"
+      ],
+      "Friday": [
+        "17:00"
+      ],
+      "Saturday_2": [
+        "8:00",
+        "13:00",
+        "18:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 10",
+    "tag": "Coordenator",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "10:00",
+        "16:00"
+      ],
+      "Monday": [
+        "9:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "10:00",
+        "17:00"
+      ],
+      "Thursday": [
+        "13:00"
+      ],
+      "Friday": [
+        "9:00",
+        "18:00"
+      ],
+      "Saturday_2": [
+        "11:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 11",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [
+        "10:00",
+        "12:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [
+        "17:00"
+      ],
+      "Saturday_2": [
+        "16:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 12",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "13:00",
+        "14:00",
+        "15:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [],
+      "Tuesday": [
+        "15:00"
+      ],
+      "Wednesday": [
+        "11:00"
+      ],
+      "Thursday": [
+        "11:00",
+        "14:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "9:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 13",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [
+        "16:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "9:00",
+        "10:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "18:00"
+      ],
+      "Thursday": [
+        "14:00"
+      ],
+      "Friday": [
+        "8:00",
+        "17:00"
+      ],
+      "Saturday_2": [
+        "17:00"
+      ],
+      "Sunday_2": [
+        "9:00",
+        "13:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 14",
+    "tag": "Coordenator",
+    "shifts": {
+      "Saturday_1": [
+        "12:00"
+      ],
+      "Sunday_1": [
+        "8:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "15:00"
+      ],
+      "Wednesday": [
+        "10:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "8:00",
+        "11:00",
+        "15:00"
+      ],
+      "Saturday_2": [
+        "16:00"
+      ],
+      "Sunday_2": [
+        "9:00",
+        "17:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 15",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [],
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [
+        "8:00",
+        "13:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "13:00"
+      ],
+      "Sunday_2": [
+        "8:00",
+        "15:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 16",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [
+        "9:00",
+        "10:00",
+        "14:00"
+      ],
+      "Sunday_1": [
+        "9:00"
+      ],
+      "Monday": [
+        "10:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "10:00",
+        "12:00",
+        "16:00"
+      ],
+      "Thursday": [
+        "11:00",
+        "15:00"
+      ],
+      "Friday": [
+        "16:00"
+      ],
+      "Saturday_2": [
+        "8:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 17",
+    "tag": "Logistics",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "11:00",
+        "17:00"
+      ],
+      "Monday": [
+        "17:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "10:00",
+        "14:00"
+      ],
+      "Thursday": [
+        "9:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "12:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 18",
+    "tag": "Logistics",
+    "shifts": {
+      "Saturday_1": [
+        "9:00",
+        "12:00",
+        "16:00"
+      ],
+      "Sunday_1": [
+        "11:00"
+      ],
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [
+        "15:00"
+      ],
+      "Thursday": [
+        "17:00"
+      ],
+      "Friday": [
+        "11:00",
+        "18:00"
+      ],
+      "Saturday_2": [
+        "10:00",
+        "17:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 19",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [
+        "8:00",
+        "17:00"
+      ],
+      "Sunday_1": [
+        "8:00"
+      ],
+      "Monday": [
+        "9:00",
+        "16:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "11:00",
+        "13:00",
+        "17:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "14:00"
+      ],
+      "Saturday_2": [
+        "8:00",
+        "13:00"
+      ],
+      "Sunday_2": [
+        "12:00",
+        "14:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 20",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [],
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [
+        "13:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "14:00"
+      ],
+      "Saturday_2": [
+        "13:00",
+        "15:00",
+        "16:00"
+      ],
+      "Sunday_2": [
+        "14:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 21",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [
+        "15:00",
+        "17:00"
+      ],
+      "Sunday_1": [
+        "15:00"
+      ],
+      "Monday": [
+        "12:00"
+      ],
+      "Tuesday": [
+        "9:00"
+      ],
+      "Wednesday": [
+        "13:00",
+        "15:00"
+      ],
+      "Thursday": [
+        "12:00"
+      ],
+      "Friday": [
+        "8:00"
+      ],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "8:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 22",
+    "tag": "Speakers",
+    "shifts": {
+      "Saturday_1": [
+        "10:00",
+        "17:00"
+      ],
+      "Sunday_1": [
+        "14:00",
+        "16:00"
+      ],
+      "Monday": [
+        "8:00",
+        "10:00"
+      ],
+      "Tuesday": [
+        "9:00"
+      ],
+      "Wednesday": [
+        "10:00"
+      ],
+      "Thursday": [
+        "9:00"
+      ],
+      "Friday": [
+        "11:00"
+      ],
+      "Saturday_2": [
+        "8:00",
+        "14:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 23",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "8:00",
+        "9:00",
+        "16:00",
+        "18:00"
+      ],
+      "Sunday_1": [
+        "17:00"
+      ],
+      "Monday": [
+        "13:00",
+        "18:00"
+      ],
+      "Tuesday": [
+        "12:00"
+      ],
+      "Wednesday": [
+        "10:00"
+      ],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday_2": [
+        "14:00"
+      ],
+      "Sunday_2": [
+        "10:00",
+        "18:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 24",
+    "tag": "Marketing",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "13:00"
+      ],
+      "Monday": [
+        "11:00"
+      ],
+      "Tuesday": [
+        "14:00"
+      ],
+      "Wednesday": [
+        "16:00"
+      ],
+      "Thursday": [
+        "13:00"
+      ],
+      "Friday": [
+        "17:00"
+      ],
+      "Saturday_2": [
+        "8:00",
+        "12:00",
+        "17:00"
+      ],
+      "Sunday_2": [
+        "13:00",
+        "17:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 25",
+    "tag": "Marketing",
+    "shifts": {
+      "Saturday_1": [
+        "8:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [
+        "10:00",
+        "11:00"
+      ],
+      "Friday": [
+        "17:00"
+      ],
+      "Saturday_2": [
+        "10:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 26",
+    "tag": "Marketing",
+    "shifts": {
+      "Saturday_1": [
+        "16:00",
+        "17:00"
+      ],
+      "Sunday_1": [
+        "10:00",
+        "16:00"
+      ],
+      "Monday": [
+        "18:00"
+      ],
+      "Tuesday": [
+        "10:00",
+        "15:00",
+        "17:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "17:00",
+        "18:00"
+      ],
+      "Friday": [
+        "10:00"
+      ],
+      "Saturday_2": [
+        "14:00"
+      ],
+      "Sunday_2": [
+        "10:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 27",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [
+        "17:00",
+        "18:00"
+      ],
+      "Sunday_1": [
+        "13:00",
+        "14:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "11:00"
+      ],
+      "Wednesday": [
+        "8:00"
+      ],
+      "Thursday": [
+        "10:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "13:00",
+        "15:00",
+        "18:00"
+      ],
+      "Sunday_2": [
+        "18:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 28",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [
+        "8:00",
+        "17:00"
+      ],
+      "Sunday_1": [
+        "15:00",
+        "16:00"
+      ],
+      "Monday": [
+        "9:00"
+      ],
+      "Tuesday": [
+        "13:00",
+        "14:00"
+      ],
+      "Wednesday": [
+        "9:00"
+      ],
+      "Thursday": [
+        "10:00"
+      ],
+      "Friday": [
+        "13:00",
+        "15:00",
+        "18:00"
+      ],
+      "Saturday_2": [
+        "9:00",
+        "12:00"
+      ],
+      "Sunday_2": [
+        "9:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 29",
+    "tag": "Coordenator",
+    "shifts": {
+      "Saturday_1": [
+        "8:00",
+        "12:00",
+        "16:00"
+      ],
+      "Sunday_1": [
+        "11:00"
+      ],
+      "Monday": [
+        "10:00",
+        "15:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [
+        "14:00"
+      ],
+      "Saturday_2": [
+        "16:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 30",
+    "tag": "Logistics",
+    "shifts": {
+      "Saturday_1": [
+        "16:00"
+      ],
+      "Sunday_1": [
+        "8:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "10:00"
+      ],
+      "Wednesday": [
+        "9:00",
+        "12:00",
+        "14:00"
+      ],
+      "Thursday": [
+        "10:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "10:00",
+        "15:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 31",
+    "tag": "Coordenator",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "17:00"
+      ],
+      "Monday": [
+        "9:00"
+      ],
+      "Tuesday": [
+        "13:00",
+        "16:00"
+      ],
+      "Wednesday": [
+        "8:00",
+        "11:00",
+        "13:00"
+      ],
+      "Thursday": [
+        "10:00",
+        "12:00"
+      ],
+      "Friday": [
+        "12:00",
+        "18:00"
+      ],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "10:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 32",
+    "tag": "Logistics",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "10:00"
+      ],
+      "Monday": [
+        "8:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "11:00"
+      ],
+      "Thursday": [
+        "8:00",
+        "16:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "11:00",
+        "14:00"
+      ],
+      "Sunday_2": [
+        "13:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 33",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "12:00",
+        "15:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [],
+      "Tuesday": [
+        "18:00"
+      ],
+      "Wednesday": [
+        "8:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "9:00"
+      ],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "15:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 34",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [
+        "8:00",
+        "17:00"
+      ],
+      "Sunday_1": [
+        "13:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "15:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "12:00"
+      ],
+      "Friday": [
+        "12:00",
+        "14:00",
+        "15:00",
+        "17:00"
+      ],
+      "Saturday_2": [],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 35",
+    "tag": "Logistics",
+    "shifts": {
+      "Saturday_1": [
+        "13:00",
+        "14:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "10:00",
+        "18:00"
+      ],
+      "Tuesday": [
+        "14:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [
+        "12:00",
+        "13:00"
+      ],
+      "Saturday_2": [
+        "11:00",
+        "17:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 36",
+    "tag": "Speakers",
+    "shifts": {
+      "Saturday_1": [
+        "9:00"
+      ],
+      "Sunday_1": [
+        "12:00"
+      ],
+      "Monday": [
+        "16:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "8:00"
+      ],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday_2": [
+        "18:00"
+      ],
+      "Sunday_2": [
+        "8:00",
+        "9:00",
+        "15:00",
+        "17:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 37",
+    "tag": "Speakers",
+    "shifts": {
+      "Saturday_1": [
+        "8:00",
+        "16:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "10:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "13:00"
+      ],
+      "Thursday": [
+        "14:00",
+        "15:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "16:00",
+        "17:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 38",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "12:00"
+      ],
+      "Monday": [
+        "15:00",
+        "16:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "13:00"
+      ],
+      "Thursday": [
+        "18:00"
+      ],
+      "Friday": [
+        "10:00",
+        "13:00",
+        "18:00"
+      ],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "8:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 39",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [
+        "18:00"
+      ],
+      "Sunday_1": [
+        "9:00"
+      ],
+      "Monday": [
+        "18:00"
+      ],
+      "Tuesday": [
+        "9:00",
+        "10:00"
+      ],
+      "Wednesday": [
+        "17:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "9:00"
+      ],
+      "Saturday_2": [
+        "9:00",
+        "13:00",
+        "16:00"
+      ],
+      "Sunday_2": [
+        "18:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 40",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [
+        "13:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [],
+      "Tuesday": [
+        "8:00"
+      ],
+      "Wednesday": [
+        "8:00"
+      ],
+      "Thursday": [
+        "18:00"
+      ],
+      "Friday": [
+        "14:00"
+      ],
+      "Saturday_2": [
+        "16:00"
+      ],
+      "Sunday_2": [
+        "9:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 41",
+    "tag": "Marketing",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "17:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "16:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "8:00",
+        "18:00"
+      ],
+      "Friday": [
+        "11:00"
+      ],
+      "Saturday_2": [
+        "16:00"
+      ],
+      "Sunday_2": [
+        "12:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 42",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [
+        "12:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "11:00",
+        "14:00",
+        "15:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [
+        "18:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "11:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 43",
+    "tag": "Logistics",
+    "shifts": {
+      "Saturday_1": [
+        "11:00"
+      ],
+      "Sunday_1": [
+        "9:00",
+        "11:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "10:00",
+        "18:00"
+      ],
+      "Wednesday": [
+        "14:00"
+      ],
+      "Thursday": [
+        "16:00"
+      ],
+      "Friday": [
+        "16:00"
+      ],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "8:00",
+        "9:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 44",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [],
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [
+        "9:00",
+        "14:00",
+        "15:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "9:00",
+        "15:00"
+      ],
+      "Sunday_2": [
+        "9:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 45",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [],
+      "Monday": [
+        "14:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "14:00"
+      ],
+      "Thursday": [
+        "8:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "15:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 46",
+    "tag": "Coordenator",
+    "shifts": {
+      "Saturday_1": [
+        "8:00",
+        "16:00"
+      ],
+      "Sunday_1": [
+        "11:00",
+        "18:00"
+      ],
+      "Monday": [
+        "12:00",
+        "13:00"
+      ],
+      "Tuesday": [
+        "17:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [
+        "8:00",
+        "11:00"
+      ],
+      "Saturday_2": [
+        "8:00",
+        "11:00"
+      ],
+      "Sunday_2": [
+        "14:00",
+        "16:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 47",
+    "tag": "Speakers",
+    "shifts": {
+      "Saturday_1": [
+        "12:00",
+        "14:00"
+      ],
+      "Sunday_1": [
+        "15:00"
+      ],
+      "Monday": [
+        "16:00"
+      ],
+      "Tuesday": [
+        "17:00"
+      ],
+      "Wednesday": [
+        "15:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "13:00"
+      ],
+      "Saturday_2": [
+        "12:00",
+        "13:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 48",
+    "tag": "Coordenator",
+    "shifts": {
+      "Saturday_1": [
+        "8:00"
+      ],
+      "Sunday_1": [
+        "9:00",
+        "13:00"
+      ],
+      "Monday": [
+        "11:00",
+        "18:00"
+      ],
+      "Tuesday": [
+        "18:00"
+      ],
+      "Wednesday": [
+        "14:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "18:00"
+      ],
+      "Saturday_2": [
+        "13:00"
+      ],
+      "Sunday_2": [
+        "11:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 49",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "8:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [],
+      "Tuesday": [
+        "9:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "11:00"
+      ],
+      "Friday": [
+        "9:00",
+        "17:00"
+      ],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "12:00",
+        "17:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 50",
+    "tag": "Speakers",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "11:00",
+        "15:00"
+      ],
+      "Monday": [
+        "8:00",
+        "15:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "9:00"
+      ],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday_2": [
+        "9:00"
+      ],
+      "Sunday_2": [
+        "18:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 51",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "9:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "13:00",
+        "14:00",
+        "15:00"
+      ],
+      "Tuesday": [
+        "18:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "12:00"
+      ],
+      "Friday": [
+        "18:00"
+      ],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "17:00",
+        "18:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 52",
+    "tag": "Logistics",
+    "shifts": {
+      "Saturday_1": [
+        "10:00",
+        "13:00"
+      ],
+      "Sunday_1": [
+        "17:00"
+      ],
+      "Monday": [
+        "9:00"
+      ],
+      "Tuesday": [
+        "18:00"
+      ],
+      "Wednesday": [
+        "10:00",
+        "12:00",
+        "14:00"
+      ],
+      "Thursday": [
+        "10:00",
+        "11:00",
+        "16:00",
+        "17:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "17:00"
+      ],
+      "Sunday_2": [
+        "13:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 53",
+    "tag": "Logistics",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "11:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "9:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "14:00"
+      ],
+      "Friday": [
+        "14:00"
+      ],
+      "Saturday_2": [
+        "17:00"
+      ],
+      "Sunday_2": [
+        "11:00",
+        "12:00",
+        "13:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 54",
+    "tag": "Logistics",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "8:00"
+      ],
+      "Monday": [
+        "18:00"
+      ],
+      "Tuesday": [
+        "9:00"
+      ],
+      "Wednesday": [
+        "10:00"
+      ],
+      "Thursday": [
+        "10:00",
+        "15:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "15:00",
+        "16:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 55",
+    "tag": "Marketing",
+    "shifts": {
+      "Saturday_1": [
+        "8:00",
+        "10:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "12:00"
+      ],
+      "Tuesday": [
+        "14:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "13:00"
+      ],
+      "Friday": [
+        "14:00",
+        "15:00",
+        "16:00"
+      ],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "11:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 56",
+    "tag": "Coordenator",
+    "shifts": {
+      "Saturday_1": [
+        "11:00",
+        "14:00"
+      ],
+      "Sunday_1": [
+        "13:00",
+        "17:00"
+      ],
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [
+        "14:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "9:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 57",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [
+        "10:00",
+        "12:00",
+        "13:00"
+      ],
+      "Sunday_1": [
+        "13:00",
+        "18:00"
+      ],
+      "Monday": [
+        "10:00"
+      ],
+      "Tuesday": [
+        "12:00",
+        "13:00",
+        "18:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "11:00",
+        "15:00"
+      ],
+      "Friday": [
+        "13:00"
+      ],
+      "Saturday_2": [
+        "9:00",
+        "13:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 58",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "16:00",
+        "18:00"
+      ],
+      "Monday": [
+        "9:00",
+        "18:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "8:00",
+        "13:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "9:00",
+        "16:00",
+        "18:00"
+      ],
+      "Saturday_2": [
+        "10:00"
+      ],
+      "Sunday_2": [
+        "11:00",
+        "13:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 59",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [
+        "18:00"
+      ],
+      "Sunday_1": [
+        "12:00"
+      ],
+      "Monday": [
+        "12:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "10:00",
+        "17:00",
+        "18:00"
+      ],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday_2": [
+        "14:00"
+      ],
+      "Sunday_2": [
+        "17:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 60",
+    "tag": "Logistics",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [],
+      "Monday": [
+        "16:00"
+      ],
+      "Tuesday": [
+        "12:00"
+      ],
+      "Wednesday": [
+        "13:00",
+        "17:00"
+      ],
+      "Thursday": [
+        "9:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 61",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "11:00",
+        "16:00"
+      ],
+      "Sunday_1": [
+        "16:00"
+      ],
+      "Monday": [
+        "9:00",
+        "11:00",
+        "12:00"
+      ],
+      "Tuesday": [
+        "15:00",
+        "18:00"
+      ],
+      "Wednesday": [
+        "8:00",
+        "17:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "17:00"
+      ],
+      "Saturday_2": [
+        "11:00",
+        "12:00",
+        "13:00"
+      ],
+      "Sunday_2": [
+        "17:00",
+        "18:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 62",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "15:00"
+      ],
+      "Monday": [
+        "8:00",
+        "11:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "12:00",
+        "18:00"
+      ],
+      "Thursday": [
+        "13:00"
+      ],
+      "Friday": [
+        "16:00"
+      ],
+      "Saturday_2": [
+        "9:00"
+      ],
+      "Sunday_2": [
+        "8:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 63",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "11:00",
+        "12:00",
+        "13:00"
+      ],
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [
+        "9:00",
+        "14:00"
+      ],
+      "Thursday": [
+        "8:00",
+        "14:00"
+      ],
+      "Friday": [
+        "9:00"
+      ],
+      "Saturday_2": [
+        "14:00",
+        "17:00"
+      ],
+      "Sunday_2": [
+        "8:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 64",
+    "tag": "Marketing",
+    "shifts": {
+      "Saturday_1": [
+        "11:00",
+        "16:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "10:00"
+      ],
+      "Tuesday": [
+        "11:00"
+      ],
+      "Wednesday": [
+        "13:00"
+      ],
+      "Thursday": [
+        "14:00"
+      ],
+      "Friday": [
+        "18:00"
+      ],
+      "Saturday_2": [
+        "10:00",
+        "18:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 65",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "16:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "9:00",
+        "12:00"
+      ],
+      "Tuesday": [
+        "12:00",
+        "16:00",
+        "17:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "14:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 66",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [
+        "11:00",
+        "12:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "11:00",
+        "13:00",
+        "15:00"
+      ],
+      "Tuesday": [
+        "10:00",
+        "12:00"
+      ],
+      "Wednesday": [
+        "9:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "14:00"
+      ],
+      "Saturday_2": [
+        "8:00",
+        "18:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 67",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "14:00",
+        "15:00"
+      ],
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [
+        "8:00",
+        "18:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "8:00",
+        "18:00"
+      ],
+      "Saturday_2": [
+        "10:00"
+      ],
+      "Sunday_2": [
+        "9:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 68",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "11:00"
+      ],
+      "Sunday_1": [
+        "11:00",
+        "12:00",
+        "15:00"
+      ],
+      "Monday": [
+        "12:00",
+        "18:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [
+        "10:00",
+        "11:00"
+      ],
+      "Friday": [
+        "16:00"
+      ],
+      "Saturday_2": [
+        "17:00"
+      ],
+      "Sunday_2": [
+        "12:00",
+        "13:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 69",
+    "tag": "Coordenator",
+    "shifts": {
+      "Saturday_1": [
+        "11:00"
+      ],
+      "Sunday_1": [
+        "13:00"
+      ],
+      "Monday": [
+        "13:00"
+      ],
+      "Tuesday": [
+        "13:00",
+        "18:00"
+      ],
+      "Wednesday": [
+        "16:00"
+      ],
+      "Thursday": [
+        "12:00",
+        "17:00"
+      ],
+      "Friday": [
+        "14:00"
+      ],
+      "Saturday_2": [
+        "8:00"
+      ],
+      "Sunday_2": [
+        "10:00",
+        "16:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 70",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [
+        "11:00",
+        "12:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "9:00"
+      ],
+      "Tuesday": [
+        "9:00"
+      ],
+      "Wednesday": [
+        "10:00",
+        "17:00"
+      ],
+      "Thursday": [
+        "11:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "12:00",
+        "16:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 71",
+    "tag": "Coordenator",
+    "shifts": {
+      "Saturday_1": [
+        "11:00",
+        "18:00"
+      ],
+      "Sunday_1": [
+        "12:00",
+        "16:00"
+      ],
+      "Monday": [
+        "12:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "11:00",
+        "15:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "18:00"
+      ],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "9:00",
+        "14:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 72",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "8:00"
+      ],
+      "Sunday_1": [
+        "14:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "11:00"
+      ],
+      "Wednesday": [
+        "8:00"
+      ],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday_2": [
+        "8:00",
+        "13:00"
+      ],
+      "Sunday_2": [
+        "8:00",
+        "9:00",
+        "13:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 73",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [
+        "8:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "9:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [
+        "8:00",
+        "14:00"
+      ],
+      "Saturday_2": [
+        "8:00",
+        "12:00"
+      ],
+      "Sunday_2": [
+        "12:00",
+        "13:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 74",
+    "tag": "Coordenator",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "9:00",
+        "12:00",
+        "15:00"
+      ],
+      "Monday": [
+        "10:00",
+        "12:00",
+        "15:00"
+      ],
+      "Tuesday": [
+        "12:00",
+        "14:00"
+      ],
+      "Wednesday": [
+        "12:00"
+      ],
+      "Thursday": [
+        "14:00"
+      ],
+      "Friday": [
+        "15:00",
+        "16:00"
+      ],
+      "Saturday_2": [
+        "10:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 75",
+    "tag": "Coordenator",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [],
+      "Monday": [
+        "12:00"
+      ],
+      "Tuesday": [
+        "18:00"
+      ],
+      "Wednesday": [
+        "14:00",
+        "15:00",
+        "16:00"
+      ],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday_2": [
+        "9:00",
+        "11:00"
+      ],
+      "Sunday_2": [
+        "14:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 76",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "9:00"
+      ],
+      "Monday": [
+        "11:00",
+        "12:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [
+        "11:00",
+        "15:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "9:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 77",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [
+        "13:00",
+        "14:00",
+        "16:00"
+      ],
+      "Sunday_1": [
+        "9:00"
+      ],
+      "Monday": [
+        "8:00",
+        "10:00",
+        "13:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "15:00"
+      ],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday_2": [
+        "11:00",
+        "13:00"
+      ],
+      "Sunday_2": [
+        "11:00",
+        "14:00",
+        "16:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 78",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "12:00"
+      ],
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [
+        "9:00",
+        "13:00"
+      ],
+      "Thursday": [
+        "13:00",
+        "14:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "10:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 79",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "8:00",
+        "15:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "10:00",
+        "18:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "15:00"
+      ],
+      "Friday": [
+        "8:00",
+        "16:00"
+      ],
+      "Saturday_2": [
+        "17:00"
+      ],
+      "Sunday_2": [
+        "9:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 80",
+    "tag": "Speakers",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "11:00"
+      ],
+      "Monday": [
+        "13:00"
+      ],
+      "Tuesday": [
+        "17:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "14:00",
+        "16:00"
+      ],
+      "Friday": [
+        "12:00"
+      ],
+      "Saturday_2": [
+        "12:00"
+      ],
+      "Sunday_2": [
+        "10:00",
+        "11:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 81",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [
+        "18:00"
+      ],
+      "Sunday_1": [
+        "9:00",
+        "17:00"
+      ],
+      "Monday": [
+        "9:00",
+        "18:00"
+      ],
+      "Tuesday": [
+        "8:00",
+        "9:00",
+        "11:00",
+        "15:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "15:00",
+        "18:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 82",
+    "tag": "Coordenator",
+    "shifts": {
+      "Saturday_1": [
+        "18:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [],
+      "Tuesday": [
+        "14:00",
+        "18:00"
+      ],
+      "Wednesday": [
+        "8:00",
+        "15:00",
+        "18:00"
+      ],
+      "Thursday": [
+        "8:00",
+        "17:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "8:00"
+      ],
+      "Sunday_2": [
+        "12:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 83",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "9:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "12:00"
+      ],
+      "Tuesday": [
+        "8:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "8:00",
+        "10:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "15:00",
+        "17:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 84",
+    "tag": "Logistics",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "14:00"
+      ],
+      "Monday": [
+        "13:00"
+      ],
+      "Tuesday": [
+        "9:00"
+      ],
+      "Wednesday": [
+        "13:00",
+        "16:00"
+      ],
+      "Thursday": [
+        "13:00",
+        "18:00"
+      ],
+      "Friday": [
+        "9:00"
+      ],
+      "Saturday_2": [
+        "16:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 85",
+    "tag": "Speakers",
+    "shifts": {
+      "Saturday_1": [
+        "11:00"
+      ],
+      "Sunday_1": [
+        "9:00",
+        "10:00"
+      ],
+      "Monday": [
+        "14:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "14:00"
+      ],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday_2": [
+        "8:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 86",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "14:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [
+        "11:00"
+      ],
+      "Tuesday": [
+        "10:00"
+      ],
+      "Wednesday": [
+        "14:00"
+      ],
+      "Thursday": [
+        "8:00"
+      ],
+      "Friday": [
+        "11:00",
+        "17:00"
+      ],
+      "Saturday_2": [
+        "11:00"
+      ],
+      "Sunday_2": [
+        "16:00",
+        "17:00",
+        "18:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 87",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "8:00"
+      ],
+      "Sunday_1": [
+        "9:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "11:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "11:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "14:00",
+        "17:00",
+        "18:00"
+      ],
+      "Sunday_2": [
+        "15:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 88",
+    "tag": "Volunteers",
+    "shifts": {
+      "Saturday_1": [
+        "14:00"
+      ],
+      "Sunday_1": [
+        "8:00",
+        "11:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "15:00"
+      ],
+      "Wednesday": [
+        "17:00"
+      ],
+      "Thursday": [
+        "14:00"
+      ],
+      "Friday": [
+        "15:00"
+      ],
+      "Saturday_2": [
+        "10:00"
+      ],
+      "Sunday_2": [
+        "12:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 89",
+    "tag": "Speakers",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [],
+      "Monday": [
+        "9:00",
+        "11:00",
+        "15:00",
+        "18:00"
+      ],
+      "Tuesday": [
+        "11:00"
+      ],
+      "Wednesday": [
+        "14:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "12:00",
+        "18:00"
+      ],
+      "Saturday_2": [
+        "9:00",
+        "14:00"
+      ],
+      "Sunday_2": [
+        "15:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 90",
+    "tag": "Speakers",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "9:00"
+      ],
+      "Monday": [
+        "8:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday_2": [],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 91",
+    "tag": "Speakers",
+    "shifts": {
+      "Saturday_1": [
+        "17:00"
+      ],
+      "Sunday_1": [
+        "8:00",
+        "17:00"
+      ],
+      "Monday": [
+        "8:00",
+        "9:00",
+        "14:00"
+      ],
+      "Tuesday": [
+        "14:00",
+        "18:00"
+      ],
+      "Wednesday": [
+        "11:00"
+      ],
+      "Thursday": [
+        "10:00",
+        "12:00",
+        "13:00",
+        "15:00"
+      ],
+      "Friday": [
+        "10:00"
+      ],
+      "Saturday_2": [
+        "10:00"
+      ],
+      "Sunday_2": [
+        "10:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 92",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [
+        "17:00"
+      ],
+      "Sunday_1": [
+        "11:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "14:00"
+      ],
+      "Wednesday": [
+        "14:00"
+      ],
+      "Thursday": [
+        "8:00"
+      ],
+      "Friday": [
+        "15:00"
+      ],
+      "Saturday_2": [
+        "11:00"
+      ],
+      "Sunday_2": [
+        "13:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 93",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [
+        "13:00"
+      ],
+      "Sunday_1": [
+        "17:00"
+      ],
+      "Monday": [
+        "9:00",
+        "14:00"
+      ],
+      "Tuesday": [
+        "14:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday_2": [
+        "17:00"
+      ],
+      "Sunday_2": [
+        "10:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 94",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [
+        "8:00"
+      ],
+      "Sunday_1": [
+        "12:00",
+        "16:00"
+      ],
+      "Monday": [
+        "8:00"
+      ],
+      "Tuesday": [
+        "9:00"
+      ],
+      "Wednesday": [
+        "16:00"
+      ],
+      "Thursday": [
+        "12:00",
+        "15:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "11:00",
+        "15:00"
+      ],
+      "Sunday_2": [
+        "18:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 95",
+    "tag": "Marketing",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "17:00"
+      ],
+      "Monday": [
+        "11:00",
+        "18:00"
+      ],
+      "Tuesday": [
+        "17:00",
+        "18:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "9:00",
+        "17:00"
+      ],
+      "Friday": [
+        "10:00",
+        "13:00",
+        "17:00"
+      ],
+      "Saturday_2": [
+        "11:00"
+      ],
+      "Sunday_2": []
+    }
+  },
+  {
+    "member": "Person 96",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [
+        "15:00",
+        "16:00"
+      ],
+      "Sunday_1": [
+        "14:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "9:00",
+        "10:00"
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        "12:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [
+        "15:00",
+        "17:00"
+      ],
+      "Sunday_2": [
+        "8:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 97",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [
+        "14:00"
+      ],
+      "Sunday_1": [],
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [
+        "17:00"
+      ],
+      "Thursday": [],
+      "Friday": [
+        "10:00"
+      ],
+      "Saturday_2": [
+        "10:00"
+      ],
+      "Sunday_2": [
+        "12:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 98",
+    "tag": "Webdev",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "15:00",
+        "17:00",
+        "18:00"
+      ],
+      "Monday": [],
+      "Tuesday": [
+        "8:00",
+        "14:00"
+      ],
+      "Wednesday": [
+        "8:00"
+      ],
+      "Thursday": [
+        "18:00"
+      ],
+      "Friday": [],
+      "Saturday_2": [],
+      "Sunday_2": [
+        "14:00",
+        "18:00"
+      ]
+    }
+  },
+  {
+    "member": "Person 99",
+    "tag": "Business",
+    "shifts": {
+      "Saturday_1": [],
+      "Sunday_1": [
+        "12:00",
+        "13:00"
+      ],
+      "Monday": [
+        "14:00"
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        "14:00",
+        "18:00"
+      ],
+      "Thursday": [
+        "10:00"
+      ],
+      "Friday": [
+        "8:00",
+        "12:00",
+        "14:00"
+      ],
+      "Saturday_2": [
+        "10:00"
+      ],
+      "Sunday_2": [
+        "9:00"
+      ]
+    }
+  }
+]
