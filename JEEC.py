@@ -21,6 +21,7 @@ def Read_file_json():
     # Define os dias da semana e horários possíveis
     weekdays = ["Saturday_1", "Sunday_1", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday_2", "Sunday_2"]
     shifts_list = ["8:00", "9:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00"]
+    roles = ["Coordenator", "Webdev", "Marketing", "Business", "Logistics", "Speakers", "Volunteers"]
     people = []  # Lista para armazenar todas as instâncias de Person
     nShifts = len(weekdays) * len(shifts_list)
     shiftsWeek = []
@@ -30,9 +31,9 @@ def Read_file_json():
         data = json.load(file)
         for person_data in data:
             name = person_data["member"]
-            tag = person_data["tag"]
+            role_name = person_data["tag"]
             shifts = person_data["shifts"]
-            person_shifts = [0] * (len(weekdays) * len(shifts_list))
+            person_shifts = []
             for weekday in shifts:
                 if weekday in weekdays:
                     current_day_index = weekdays.index(weekday)
@@ -40,8 +41,9 @@ def Read_file_json():
                         if shift in shifts_list:
                             shift_index = shifts_list.index(shift)
                             global_index = current_day_index * len(shifts_list) + shift_index
-                            person_shifts[global_index] = 1
+                            person_shifts.append(global_index)
 
+            tag = roles.index(role_name) if role_name in roles else -1
             tags.append(tag)
             # print(name, ": " ,person_shifts)
             shiftsWeek.append(set(person_shifts))
