@@ -2,26 +2,26 @@ import json
 import minizinc
 from minizinc import Instance, Model, Solver
 import numpy as np
+from datetime import timedelta
 
-def runModel():
-    # Create a MiniZinc model
-    model = Model("./JEEC.mzn")
-    model = Model("./JEEC.mzn")
-    solver = Solver.lookup("gecode") # GECODE WORKS BEST WITH THIS IMPLEMENTATION
-    instance = Instance(solver, model)
-    instance.add_file("./JEEC.dzn")
+# def runModel():
+#     # Create a MiniZinc model
+#     model = Model("./JEEC.mzn")
+#     solver = Solver.lookup("gecode") # GECODE WORKS BEST WITH THIS IMPLEMENTATION
+#     instance = Instance(solver, model)
+#     instance.add_file("./JEECdata.dzn")
 
-    # Solve the model
-    result = instance.solve()
+#     # Solve the model
+#     result = instance.solve()
     
-    return result
+#     return result
 
 
 
 def Read_file_json():
     # Define os dias da semana e horários possíveis
     weekdays = ["Saturday_1", "Sunday_1", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday_2", "Sunday_2"]
-    shifts_list = ["8:00", "9:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00"]
+    shifts_list = ["8:00", "9:30", "11:00", "12:30", "14:00", "15:30", "17:00", "18:30", "20:00"]
     roles = ["Coordenator", "Webdev", "Marketing", "Business", "Logistics", "Speakers", "Volunteers"]
     people = []  # Lista para armazenar todas as instâncias de Person
     nShifts = len(weekdays) * len(shifts_list)
@@ -76,28 +76,32 @@ def write_output_file(output_file, nPeople, nShifts, maxPerShift, nRoles, rolePe
         file.write(f"roles = [{', '.join(map(str, rolePeople))}];\n")
 
 
-def main():
+def runModel():
+    model = Model("./JEEC.mzn")
+    solver = Solver.lookup("gecode")
+    instance = Instance(solver, model)
+    instance.add_file("./JEECdata.dzn")
 
+    result = instance.solve(timeout=timedelta(seconds=60))
+    
+    return result
+
+
+def main():
     availability, roles, nShifts = Read_file_json()
     write_output_file("JEECdata.dzn", len(roles), nShifts, 20, 7, roles, availability)
     result = runModel()
 
+    if result is None:
+        print("No feasible solution found!")
+        return
+
     assigned = np.array(result["assigned"])
-    
-    people = []
-    shifts = set()
+
+
+    # Print assignments
     for i in range(assigned.shape[0]):
-        for j in range(assigned.shape[1]):
-            if assigned[i][j] == 1:
-                shifts.add(j + 1)
-        shifts = sorted(shifts)
-        people.append(shifts)
-        shifts = set()
-
-
-    for i in range(len(people)):
-        print(f"Person {i}: {people[i]} - #Shifts = {len(people[i])}")
-
-
+        shifts = [j + 1 for j in range(assigned.shape[1]) if assigned[i][j] == 1]
+        print(f"Person {i}: {shifts} - #Shifts = {len(shifts)}")
 
 main()
