@@ -5,10 +5,10 @@ import numpy as np
 
 def runModel():
     # Create a MiniZinc model
-    model = Model("./projGetFirstUpper.mzn")
+    model = Model("./JEEC.mzn")
     solver = Solver.lookup("gecode") # GECODE WORKS BEST WITH THIS IMPLEMENTATION
     instance = Instance(solver, model)
-    instance.add_file("./data.dzn")
+    instance.add_file("./JEEC.dzn")
 
     # Solve the model
     result = instance.solve()
