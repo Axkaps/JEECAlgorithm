@@ -78,7 +78,7 @@ def write_output_file(output_file, nPeople, nShifts, maxPerShift, nRoles, rolePe
 
 def runModel():
     model = Model("./JEEC.mzn")
-    solver = Solver.lookup("gecode")
+    solver = Solver.lookup("cbc")
     instance = Instance(solver, model)
     instance.add_file("./JEECdata.dzn")
 
