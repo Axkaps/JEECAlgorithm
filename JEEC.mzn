@@ -16,13 +16,6 @@ constraint forall(i in 1..num_people, j in availability[i]) (
     assigned[i, j] = 1
 );
 
-
-% 2. Calculate workload per person
-array[1..num_people] of var int: workload;
-constraint forall(i in 1..num_people) (
-    workload[i] = sum(j in 1..num_shifts) (assigned[i, j])
-);
-
 % 3. Limit people per shift
 constraint forall(j in 1..num_shifts) (
     sum(i in 1..num_people) (assigned[i, j]) <= max_people_per_shift
@@ -33,9 +26,12 @@ constraint forall(j in 1..num_shifts, r in 1..num_roles) (
     exists(i in 1..num_people where roles[i] == r) (assigned[i, j] == 1)
 );
 
+constraint forall(i in 1..num_people)(
+    workload = max(sum(j in 1..num_shifts) (assigned[i, j]));
+)
 % 5. Minimize workload imbalance
 var int: min_workload = min(workload);
 var int: max_workload = max(workload);
 var int: deviation = max_workload - min_workload;
 
-solve minimize deviation;
+solve minimize workload;
